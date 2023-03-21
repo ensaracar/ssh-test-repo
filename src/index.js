@@ -1,1 +1,4 @@
-export { default as TodaysDate } from './TodaysDate';
+import TodaysDate from './TodaysDate';
+import AnotherComponent from './AnotherComponent';
+
+export {TodaysDate, AnotherComponent}
