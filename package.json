@@ -7,7 +7,7 @@
   "author": "Ensar Acar",
   "license": "MIT",
   "dependencies": {
-    "git": "github:ensaracar/ssh-test-repo.git",
+    "git": "^0.1.5",
     "react": "^18.2.0"
   },
   "scripts": {

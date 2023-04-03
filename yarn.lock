@@ -1231,13 +1231,6 @@ git@^0.1.5:
   dependencies:
     mime "1.2.9"
 
-"git@github:ensaracar/ssh-test-repo.git":
-  version "0.1.0"
-  resolved "https://codeload.github.com/ensaracar/ssh-test-repo/tar.gz/f463fe14192680498cf8cf99a6ccb0bdde8eff97"
-  dependencies:
-    git "^0.1.5"
-    react "^18.2.0"
-
 glob-base@^0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/glob-base/-/glob-base-0.3.0.tgz#dbb164f6221b1c0b1ccf82aea328b497df0ea3c4"
